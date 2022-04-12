@@ -13,6 +13,7 @@ Email
   Skills
   <br>
   Language
+  <br>
  <img
   src="https://img.shields.io/badge/Kotlin-58CC02?style=flat-square&logo=Kotlin&logoColor=white"
   />
