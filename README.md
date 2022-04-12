@@ -7,7 +7,6 @@
   src="https://img.shields.io/badge/lyh990517@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"
   />
   <br>
-   <br>
   <h4>Skills</h4>
   <br>
   Language
