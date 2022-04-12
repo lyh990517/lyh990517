@@ -1,4 +1,4 @@
-Email
+<h4>Email</H4>
 <br>
 <img
   src="https://img.shields.io/badge/lsy026302@gmail.com-FF7143?style=flat-square&logo=Google&logoColor=white"
@@ -8,7 +8,7 @@ Email
   />
   <br>
    <br>
-  Skills
+  <h4>Skills</h4>
   <br>
   Language
   <br>
