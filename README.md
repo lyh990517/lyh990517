@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello%20Yunho!)
 <br>
 Email
+<br>
 <img
   src="https://img.shields.io/badge/lsy026302@gmail.com-FF7143?style=flat-square&logo=Google&logoColor=white"
   />
-  <br>
   <img
   src="https://img.shields.io/badge/lyh990517@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"
   />
