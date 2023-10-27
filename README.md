@@ -15,5 +15,4 @@
   src="https://img.shields.io/badge/Kotlin-58CC02?style=flat-square&logo=Kotlin&logoColor=white"
   />
   <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh990517)](https://solved.ac/lyh990517)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyh990517)]
