@@ -59,6 +59,24 @@
     <div>
     <!-- Librarys -->
     <p><strong>Librarys</strong></p>
+        <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Okhttp-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Jsoup-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Glide-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Lottie-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/WebRTC-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Mqtt-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Coil-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/jetpack Navigation-3DDC84?style=flat-square&logo=android&logoColor=white">
+         <br>
+        <img src="https://img.shields.io/badge/ViewBinding-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Databinding-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Livedata-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
@@ -87,7 +105,9 @@
          <!-- others -->
     <p><strong>others</strong></p>
         <img src="https://img.shields.io/badge/Flutter-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/ARCore-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/GLSL-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
 </div>
 
