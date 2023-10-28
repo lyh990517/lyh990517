@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white">
     <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Android Studio-E6DB7C?style=flat-square&logo=androidstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Proguard-D4AF37?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin DSL-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
