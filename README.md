@@ -114,3 +114,6 @@
 </div>
 
 ## 📞 Contact Me
+[![Gmail Badge](https://img.shields.io/badge/lsy026302@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsy026302@gmail.com)](mailto:lsy026302@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/yhlee2@rsupport.com-ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yhlee2@rsupport.com)](mailto:yhlee2@rsupport.com)
+[![Naver Badge](https://img.shields.io/badge/lyh990517@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lyh990517@naver.com)](lyh990517@naver.com)
