@@ -28,6 +28,7 @@
     <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logoColor=white">
     <!-- UI -->
     <p><strong>UI</strong></p>
       <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
@@ -43,7 +44,7 @@
     <p><strong>Asyncronous</strong></p>
         <img src="https://img.shields.io/badge/Coroutine-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Flow-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/RxJava-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/RxJava-3DDC84?style=flat-square&logo=reactivex&logoColor=white">
     <div>
     <!-- DI -->
     <p><strong>DI</strong></p>
@@ -52,10 +53,10 @@
     <div>
     <!-- Test -->
     <p><strong>Test</strong></p>
-        <img src="https://img.shields.io/badge/Junit-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Junit-3DDC84?style=flat-square&logo=junit5&logoColor=white">
         <img src="https://img.shields.io/badge/HiltTest-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Mockito-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/ComposeTest-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/ComposeTest-3DDC84?style=flat-square&logo=jetpackcompose&logoColor=white">
     <div>
     <!-- Librarys -->
     <p><strong>Librarys</strong></p>
@@ -66,8 +67,8 @@
         <br>
         <img src="https://img.shields.io/badge/Glide-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Lottie-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/WebRTC-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/Mqtt-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/WebRTC-3DDC84?style=flat-square&logo=webrtc&logoColor=white">
+        <img src="https://img.shields.io/badge/Mqtt-3DDC84?style=flat-square&logo=mqtt&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Coil-3DDC84?style=flat-square&logo=android&logoColor=white">
@@ -77,35 +78,37 @@
         <img src="https://img.shields.io/badge/Databinding-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Livedata-3DDC84?style=flat-square&logo=android&logoColor=white">
+         <br>
+        <img src="https://img.shields.io/badge/Gson-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-3DDC84?style=flat-square&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=notion&logoColor=white">
          <br>
-        <img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Zeplin-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/VSCode-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Kanban-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Zeplin-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/VSCode-3DDC84?style=flat-square&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Kanban-3DDC84?style=flat-square&logo=trello&logoColor=white">
          <br>
-        <img src="https://img.shields.io/badge/Drawio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/UpSource-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/TeamCity-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Redmine-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Drawio-3DDC84?style=flat-square&logo=diagramsdotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/UpSource-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/TeamCity-3DDC84?style=flat-square&logo=teamcity&logoColor=white">
+        <img src="https://img.shields.io/badge/Redmine-3DDC84?style=flat-square&logo=redmine&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Proguard-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/gradle-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Kotlin DSL-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Proguard-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/gradle-3DDC84?style=flat-square&logo=gradle&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin DSL-3DDC84?style=flat-square&logo=kotlin&logoColor=white">
         
 </div><br>
          <!-- others -->
     <p><strong>others</strong></p>
-        <img src="https://img.shields.io/badge/Flutter-3DDC84?style=flat-square&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-3DDC84?style=flat-square&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-3DDC84?style=flat-square&logo=opengl&logoColor=white">
         <img src="https://img.shields.io/badge/ARCore-3DDC84?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/GLSL-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
