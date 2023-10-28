@@ -35,21 +35,61 @@
     <div>
     <!-- Architecture -->
     <p><strong>Architecture</strong></p>
+        <img src="https://img.shields.io/badge/MVVM-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Clean Architecture-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Multi Module-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
     <!-- Asyncronous -->
     <p><strong>Asyncronous</strong></p>
+        <img src="https://img.shields.io/badge/Coroutine-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Flow-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/RxJava-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
     <!-- DI -->
     <p><strong>DI</strong></p>
+        <img src="https://img.shields.io/badge/Koin-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white">
     <div>
     <!-- Test -->
     <p><strong>Test</strong></p>
+        <img src="https://img.shields.io/badge/Junit-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/HiltTest-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Mockito-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/ComposeTest-3DDC84?style=flat-square&logo=android&logoColor=white">
+    <div>
+    <!-- Librarys -->
+    <p><strong>Librarys</strong></p>
+        
     <div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+         <br>
+        <img src="https://img.shields.io/badge/Figma-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Zeplin-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/VSCode-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Kanban-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+         <br>
+        <img src="https://img.shields.io/badge/Drawio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/UpSource-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/TeamCity-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Redmine-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Proguard-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/gradle-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin DSL-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        
 </div><br>
+         <!-- others -->
+    <p><strong>others</strong></p>
+        <img src="https://img.shields.io/badge/Flutter-3DDC84?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=android&logoColor=white">
+    <div>
 </div>
 
 ## 📞 Contact Me
