@@ -14,6 +14,14 @@
 - 🎮 Game
 - 😁 you
 
+### Github stats & Most Used Languages
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyh990517&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyh990517&layout=compact)
+
+### Baekjoon Online judge
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh990517)](https://solved.ac/lyh990517)
+
 ## 🔨 My Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
@@ -44,11 +52,4 @@
 </div><br>
 </div>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyh990517&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyh990517&layout=compact)
-
 ## 📞 Contact Me
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh990517)](https://solved.ac/lyh990517)
