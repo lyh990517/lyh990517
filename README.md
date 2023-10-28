@@ -111,9 +111,6 @@
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white">
 <img src="https://img.shields.io/badge/ARCore-F7B871?style=flat-square&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/GLSL-F4D03F?style=flat-square&logo=android&logoColor=white">
-
-
-    <div>
 </div>
 
 ## 📞 Contact Me
