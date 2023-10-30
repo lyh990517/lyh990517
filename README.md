@@ -24,6 +24,8 @@
 ### Baekjoon Online judge
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh990517)](https://solved.ac/lyh990517)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh9905172)](https://solved.ac/lyh9905172)
 ## 🔨 My Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
