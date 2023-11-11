@@ -40,7 +40,8 @@
     <div>
     <!-- Architecture -->
     <p><strong>Architecture</strong></p>
-        <img src="https://img.shields.io/badge/MVVM-FF4500?style=flat-square&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/MVVM-FF4500?style=flat-square&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/MVI-1E90FF?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Clean Architecture-32CD32?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Multi Module-4B0082?style=flat-square&logo=android&logoColor=white">
     <div>
@@ -57,10 +58,15 @@
     <div>
     <!-- Test -->
     <p><strong>Test</strong></p>
-<img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5&logoColor=white">
     <img src="https://img.shields.io/badge/HiltTest-4169E1?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Mockito-1E90FF?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/ComposeTest-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
+    <div>
+    <!-- CI/CD -->
+    <p><strong>CI/CD</strong></p>
+    <img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/TeamCity-9370DB?style=flat-square&logo=teamcity&logoColor=white">
     <div>
     <!-- Librarys -->
     <p><strong>Librarys</strong></p>
@@ -100,7 +106,6 @@
     <br>
     <img src="https://img.shields.io/badge/Drawio-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white">
     <img src="https://img.shields.io/badge/UpSource-F4CA16?style=flat-square&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white">
     <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
