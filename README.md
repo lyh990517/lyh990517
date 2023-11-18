@@ -59,7 +59,11 @@
     <!-- Test -->
     <p><strong>Test</strong></p>
     <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/Espresso-F8C471?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/HiltTest-4169E1?style=flat-square&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/CoroutineTest-FFCA28?style=flat-square&logo=android&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Robolectric-6BB9F0?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Mockito-1E90FF?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/ComposeTest-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
     <div>
