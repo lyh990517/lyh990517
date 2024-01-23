@@ -7,7 +7,7 @@
 
 ### Experience
 - 🤖 Rsupport Android Developer (2022.9 ~ now)
-- 🎓 Induk University (2018.3 ~ 2024.2(expected to graduate))
+- 🎓 Induk University (2018.3 ~ 2024.2)
 
 ### What I Like
 - 🏋️‍♀️ Work Out
