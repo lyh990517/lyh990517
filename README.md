@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hello!%20i'm%20Yunho&fontSize=50" />
+<p align="center">
+  <img src="https://github.com/lyh990517/lyh990517/assets/45873564/ad095710-4772-4e4d-bb47-1791aa8188b1" width="50%" />
+</p>
 
 ### Introduction
+
 🦈`상어`가 물속을 <b>계속 헤엄쳐야 숨을 쉴 수</b> 있듯이
 <br> 
 <br> 
