@@ -7,7 +7,9 @@
 <h5 align="start">🔥 이것이 바로 저의 각오, 저의 열정 그리고 저의 삶입니다. 🔥</h5>
 
 ### 📝 Publications  
-> Published in *ProAndroidDev*  
+> Only Published in *ProAndroidDev*  
 - [Automation Guide for Android Development: A Practical Step-by-Step Approach](https://medium.com/proandroiddev/android-development-teams-automation-journey-from-notion-api-to-mvi-component-creation-218a50647a45)  
 - [The Android Interview Questions Nobody Could Answer — Can You?](https://medium.com/proandroiddev/as-an-interviewer-i-asked-these-android-questions-can-you-answer-them-d623472568f7)
-- [Reducing Unnecessary Recompositions: 3 Practical Optimization Techniques for Jetpack Compose](https://medium.com/proandroiddev/recomposition-all-in-one-5bd1f4aedf8b)   
+
+> Also Published in *AndroidWeekly*  
+- [Reducing Unnecessary Recompositions: 3 Practical Optimization Techniques for Jetpack Compose](https://medium.com/proandroiddev/recomposition-all-in-one-5bd1f4aedf8b) - issue #696
