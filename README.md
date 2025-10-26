@@ -13,3 +13,4 @@
 
 > Also Published in *AndroidWeekly*  
 - [Reducing Unnecessary Recompositions: 3 Practical Optimization Techniques for Jetpack Compose](https://medium.com/proandroiddev/recomposition-all-in-one-5bd1f4aedf8b) - issue #696
+- [Eliminating Jank in Composables: 3 Practical Techniques for Smooth Jetpack Compose UI](https://proandroiddev.com/eliminating-jank-in-composables-3-practical-techniques-for-smooth-jetpack-compose-ui-6c66d4f7c4f4) - issue #698
