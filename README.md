@@ -10,8 +10,9 @@
 > Only Published in *ProAndroidDev*  
 - [Automation Guide for Android Development: A Practical Step-by-Step Approach](https://medium.com/proandroiddev/android-development-teams-automation-journey-from-notion-api-to-mvi-component-creation-218a50647a45)  
 - [The Android Interview Questions Nobody Could Answer — Can You?](https://medium.com/proandroiddev/as-an-interviewer-i-asked-these-android-questions-can-you-answer-them-d623472568f7)
-- [Why Your ViewModel Is Technically Unstable — and Why Compose Doesn’t Mind](https://medium.com/proandroiddev/why-your-viewmodel-is-technically-unstable-and-why-compose-doesnt-mind-6b837ca4ce53)
 
 > Also Published in *AndroidWeekly*  
 - [Reducing Unnecessary Recompositions: 3 Practical Optimization Techniques for Jetpack Compose](https://medium.com/proandroiddev/recomposition-all-in-one-5bd1f4aedf8b) - [issue #696](https://androidweekly.net/issues/issue-696)
 - [Eliminating Jank in Composables: 3 Practical Techniques for Smooth Jetpack Compose UI](https://proandroiddev.com/eliminating-jank-in-composables-3-practical-techniques-for-smooth-jetpack-compose-ui-6c66d4f7c4f4) - [issue #698](https://androidweekly.net/issues/issue-698)
+- [Why Your ViewModel Is Technically Unstable — and Why Compose Doesn’t Mind](https://medium.com/proandroiddev/why-your-viewmodel-is-technically-unstable-and-why-compose-doesnt-mind-6b837ca4ce53) - [issue #701](https://androidweekly.net/issues/issue-701)
+
